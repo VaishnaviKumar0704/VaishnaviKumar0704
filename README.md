@@ -158,7 +158,7 @@ A modern web application focused on delivering a clean and intuitive user experi
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vaishnavi-kumar-19785530b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vaishnavi-kumar-19785530b/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)](https://github.com/VaishnaviKumar0704)
 
