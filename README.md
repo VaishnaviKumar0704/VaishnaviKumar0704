@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Vaishnavi%20Kumar&fontSize=45&fontColor=ffffff)
+
 # Hi 👋, I'm Vaishnavi Kumar
 
 ### Full-Stack Developer • AI Enthusiast • Product Builder
