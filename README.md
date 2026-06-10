@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Vaishnavi%20Kumar&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Vaishnavi%20Kumar&fontSize=50&fontColor=ffffff&color=0:A855F7,50:EC4899,100:FACC15)
 
 # Hi 👋, I'm Vaishnavi Kumar
 
