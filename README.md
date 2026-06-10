@@ -83,11 +83,8 @@ Worked on business-focused data analytics tasks involving SQL, data interpretati
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VaishnaviKumar0704&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviKumar0704&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VaishnaviKumar0704&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=VaishnaviKumar0704&theme=tokyonight" />
 </p>
 
 ---
