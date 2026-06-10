@@ -32,23 +32,66 @@
 
 ## 🌟 Featured Projects
 
+
+
 ### 🎨 VisualOut
 
-AI-powered website builder that allows users to generate and customize websites with editable templates.
+
+
+An AI-powered website builder that enables users to generate, customize, and publish websites through editable templates and modern design tools.
+
+
 
 **Tech Stack:** React, Supabase, JavaScript, AI APIs
 
----
 
-### 🤖 Level0
-
-A learning platform designed to simplify technical concepts and provide structured learning experiences.
 
 ---
 
-### 📊 Data Analytics Simulation (Forage)
 
-Worked on business-focused data analytics tasks involving SQL, data interpretation, and actionable insights.
+
+### 📚 StudyNest
+
+
+
+A collaborative learning platform designed to help students organize study resources, manage learning materials, and improve productivity through a centralized workspace.
+
+
+
+**Tech Stack:** React, JavaScript, Database Systems
+
+
+
+---
+
+
+
+### 🎮 Arcade
+
+
+
+A collection of interactive browser-based games focused on engaging user experiences, responsive design, and clean game mechanics.
+
+
+
+**Tech Stack:** JavaScript, HTML, CSS
+
+
+
+---
+
+
+
+### ✨ Luma
+
+
+
+A modern web application focused on delivering a clean and intuitive user experience while solving real-world user needs through thoughtful design and functionality.
+
+
+
+**Tech Stack:** React, JavaScript, Supabase
+
 
 ---
 
