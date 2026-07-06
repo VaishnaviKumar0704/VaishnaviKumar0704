@@ -7,7 +7,7 @@
 ### DevOps • Full-Stack Developer • AI Enthusiast • Product Builder
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+VisualOut;Java+%7C+React+%7C+SQL;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&center=true&vCenter=true&width=700&lines=DevOps;Full+Stack+Developer;AI+Enthusiast;Building+VisualOut;Java+%7C+React+%7C+SQL;Always+Learning+and+Building" />
 </p>
 
 </div>
