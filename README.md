@@ -14,22 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 Computer Science Student
-
-💻 Passionate about Full-Stack Development and AI
-
-🛠️ Currently building **VisualOut** — an AI-powered website builder
-
-📊 Interested in Data Analytics, Product Development, and Scalable Applications
-
-🌱 Continuously learning modern web technologies and AI tools
-
-⚡ I enjoy turning ideas into products that people can actually use
-
----
-
 ## 🌟 Featured Projects
 
 
