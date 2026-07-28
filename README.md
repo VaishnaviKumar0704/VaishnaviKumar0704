@@ -116,30 +116,6 @@ A modern web application focused on delivering a clean and intuitive user experi
 
 ---
 
-## 📚 Currently Learning
-
-* Advanced React
-* AI Integrations
-* System Design Fundamentals
-* Full-Stack Architecture
-* Data Analytics
-
----
-
-## 🎯 2026 Goals
-
-✅ Grow VisualOut
-
-✅ Contribute to Open Source
-
-✅ Build More AI-Powered Products
-
-✅ Strengthen Full-Stack Development Skills
-
-✅ Land impactful Software Engineering opportunities
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vaishnavi-kumar-19785530b/)
